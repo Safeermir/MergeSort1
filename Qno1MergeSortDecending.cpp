@@ -1,3 +1,4 @@
+//Given an array of integers, sort it in descending order using merge sort algorithm.
 #include<iostream>
 #include<vector>
 using namespace std;
