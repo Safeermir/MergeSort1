@@ -1,3 +1,5 @@
+//Reverse Pairs (Leetcode Problem) : Given an integer array nums, return the number of reverse
+//pairs in the array. Also i have solved it on leetcode.
 #include<iostream>
 #include<vector>
 using namespace std;
